@@ -1,4 +1,4 @@
-import { reviews } from "./data.js";
+let reviews = data
 
 const img = document.getElementById("person-img");
 const author = document.getElementById("author");

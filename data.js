@@ -1,4 +1,4 @@
- export  const reviews = [
+const data = [
     {
       id: 1,
       name: 'susan smith',
